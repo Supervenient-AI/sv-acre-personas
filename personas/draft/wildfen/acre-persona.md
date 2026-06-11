@@ -29,7 +29,19 @@
 - **Mara Kovač, 28** — freelance illustrator (Glasgow)
 - **Ben Whitford, 46** — freelance copywriter (Margate)
 
+**External immovable nodes** (outside the working team, veto power over it):
+- **The Sainsbury's buyer** — sets the listing deadline the whole sprint exists to hit; reviews shelf-readiness late and binarily; appears in nobody's channel and everybody's nightmares
+- **Food labelling & packaging compliance** (FIC regulations, recycling labelling) — a silent gate that constrains Ben's copy and Mara's layout from day one, checked by no one until artwork stage
+
 **Topology:** Hub-and-spoke. Nearly everything routes through Priya. Mara and Dave have never spoken; Mara won't learn Calverton's print constraints exist until her artwork bounces off preflight in week six — unless something changes.
+
+**Lifecycle (10 weeks):**
+- *Assembly (wk 0–1):* Sophie is already in place (retainer); Mara and Ben join in week one. Whatever frame forms in the kickoff call will steer the first five weeks by inertia — and the kickoff is a Priya monologue, not a grounding exercise.
+- *Late join (wk 5):* Dave joins "when there's artwork to quote", by industry convention — after every decision his constraints should have shaped.
+- *Midpoint (wk 5):* the predictable reset. The team realises the premium-but-playful brief means different things to different people, right as Priya is mid-fundraise. Nobody owns calling the re-brief, so it happens as a panic, not a ritual.
+- *Crunch (wk 8–10):* preflight failures, compressed reprint windows, blame ambiguity. Calverton absorbs upstream slippage; Mara and Ben eat "urgent" weekend requests.
+- *Dissolution:* abrupt. Files scatter, nobody runs a retrospective, and the constellation's learning evaporates — see Afterlife.
+- *Trust curve:* swift trust peaks in week one on the strength of portfolios and Sophie's track record; every missed reply and re-remembered brief spends it. By crunch, the constellation is running on contractual minimums.
 
 **Cadence:** Bursty. Quiet stretches, then deadline panics. Priya's "Monday status email" is out of date by Wednesday. The biggest source of delay is decision latency at the hub: Priya is at a trade show in Amsterdam in week 3 and mid-fundraise throughout.
 
@@ -37,12 +49,15 @@
 
 **Where articulation work concentrates:** On Priya, the least qualified translator between specialisms and the busiest person in the constellation. Secondary articulation falls on Sophie, who is quietly doing unpaid project management for freelancers she didn't choose, and it's starting to show in her tone.
 
-**Characteristic failure modes:**
-1. Version chaos at the hub (`wildfen_carton_v7_FINAL_print2.pdf`)
-2. Late discovery of cross-specialism constraints (illustration ↔ dieline ↔ copy length)
-3. Decision bottleneck when Priya goes quiet
-4. The "two briefs" problem — Marrow & Co and the freelancers working from divergent understandings
-5. Blame ambiguity when deadlines slip, straining edges that must survive into the next project
+**Where who-knows-what lives:** The system of record is Priya's brain (failing under load). Ben holds the tone-of-voice memory, uncredited. Dave holds the print tolerances nobody asks for. Sophie holds the brand rationale behind the 2023 guidelines. Mara holds nothing institutional — which is exactly why she gets blamed when tacit specs surface late. No two members hold the same map of who knows what.
+
+**Characteristic failure modes** *(tagged: eliminate / contain / preserve)*:
+1. Version chaos at the hub (`wildfen_carton_v7_FINAL_print2.pdf`) — **eliminate**
+2. Late discovery of cross-specialism constraints (illustration ↔ dieline ↔ copy length) — **eliminate** the lateness; **preserve** the constraint-holder's "no" itself: Dave's awkward early objections are quality control, not obstruction
+3. Decision bottleneck when Priya goes quiet — **eliminate**
+4. The "two briefs" problem — Marrow & Co and the freelancers working from divergent understandings — **eliminate** (a grounding failure, not a creative disagreement)
+5. Blame ambiguity when deadlines slip, straining edges that must survive into the next project — **eliminate**
+6. Sophie's quality challenge to Mara's artwork arriving third-hand and softened — **contain**: the critique itself is creative abrasion and should reach Mara directly, anchored to the artwork; what must go is the relay distortion, not the challenge
 
 **Conflicting interests:**
 - Priya wants speed and certainty, and treats every revision as free
@@ -51,11 +66,29 @@
 - Mara wants creative credit, prompt payment, and not to carry the can for specs nobody gave her
 - Ben wants the strategy context he's been excluded from, and sign-off that stays signed off
 
+*All five are **contain**-class: none can be resolved away — the AI's job is to keep them anchored to the work (scope changes priced visibly, critique attached to artefacts, constraints stated as specs not vetoes) so task conflict never curdles into relationship conflict.*
+
+**Substitution stress-test:** Swap Mara in week six and the constellation survives structurally but pays acutely: Priya loses evenings re-briefing from a brief that exists in four versions; the new illustrator inherits no record of the feedback already given; the Sophie↔illustrator quality tension resets to zero trust; and Dave's constraints get re-discovered a second time. Swap *Priya* (illness, investor crisis) and the constellation halts — there is no second person who holds the map. The hub is a single point of failure for state, not just for decisions.
+
+**Afterlife:** Priya will run this again within a year (next SKU, next retailer). The edges that should persist — Priya↔Mara, Priya↔Ben, the hard-won Mara↔Dave spec knowledge — currently live in WhatsApp scrollback and memory. Sophie's unpaid-PM resentment, unaddressed, quietly reprices the next retainer. Whether Mara gets rehired depends on whether the preflight failure gets blamed on her or on the missing edge that caused it. What gets archived at dissolution: today, nothing.
+
 **What this constellation needs from the AI:** Relieve Priya. Hold a single live state of the deliverable. Surface Dave's constraints to Mara in week one, not week six. Chase decisions without anyone nagging. Make handoffs explicit. Never make the spokes feel watched.
 
 ---
 
 ## R — Roles
+
+**Archetype load** (count of collaboration archetypes per seat; 3+ signals structural overload):
+
+| Seat | Archetypes held | Load |
+|---|---|---|
+| Priya | Conductor · Client Owner · Coordinator · Sponsor | **4 — overloaded; this is the founder-hub pathology as a number** |
+| Sophie | Conductor (shadow) · Creative Lead (brand guardian) | 2 — and the shadow-Conductor half is unpaid |
+| Dave | Production Realiser · Gatekeeper (preflight) | 2 |
+| Mara | Specialist Maker · Newcomer | 2 — the conscripted-periphery combination |
+| Ben | Specialist Maker · Strategist (uncredited tone-of-voice memory) | 2 |
+
+The product's first job in this constellation is to take seats away from Priya — Coordinator first.
 
 ### Priya Shah, 34 — Founder, Wildfen Oat Co. *(The Brand Hub)*
 **London (Hackney Wick unit; lives in Walthamstow).** Ex-brand manager at a big FMCG company; left in 2022 because she was tired of decks about decks. Works from the unit, a coffee shop, and the 38 bus. Phone-first: WhatsApp voice notes are her native format, sent at 11.40pm with "no rush!" Has 14 apps with notifications on and trusts none of them; trusts her own memory, which is now visibly failing under load. **Attitude to AI:** enthusiastic, over-trusting; already uses a chatbot to draft investor emails. Danger: she'll happily let the AI make calls the spokes expect from a human. **Winning her looks like:** she gets an evening back in week two and tells another founder about it at a trade show.
@@ -76,15 +109,16 @@
 
 ## E — Edges
 
-| Edge | Contract | Trust | Channel | Key asymmetry / note |
+| Edge | Contract | Trust (level → trajectory) | Channel | Key asymmetry / note |
 |---|---|---|---|---|
-| Priya ↔ Sophie | Retainer + project fees | 2 yrs, solid but budget-strained | Email + monthly call; Priya keeps trying WhatsApp, Sophie keeps not answering it | Sophie holds brand knowledge Priya can't articulate; Priya holds the budget |
-| Priya ↔ Dave | Per print run, PO-based | Second engagement, transactional | Email only | Dave knows constraints nobody asks about until too late |
-| Priya ↔ Mara | Per deliverable, no formal contract | Warm but new | WhatsApp + Drive | Payment power vs. creative dependency; the informality cuts both ways |
-| Priya ↔ Ben | Day rate | Repeat collaborator, 4 projects | Email + shared docs | Ben holds tone-of-voice memory Priya relies on but doesn't credit |
-| Sophie ↔ Mara | **None** | Low / wary; quality-control tension | Routed via Priya | The edge most likely to fail silently — Sophie's feedback reaches Mara third-hand and softened |
-| Sophie ↔ Dave | **None** | Professional but guarded | Routed via Priya | Each blames the other when artwork fails preflight |
-| Mara ↔ Dave | **None** | Don't know each other exist | — | The costliest missing edge in the constellation |
+| Priya ↔ Sophie | Retainer + project fees | 2 yrs, solid → **flattening**: budget strain plus unpaid PM hours Sophie is tallying. Sustained by: shared history, results. Eroded by: out-of-hours pings, scope creep treated as free | Email + monthly call; Priya keeps trying WhatsApp, Sophie keeps not answering it | Sophie holds brand knowledge Priya can't articulate; Priya holds the budget |
+| Priya ↔ Dave | Per print run, PO-based | Transactional → **stable**: second engagement, no history to spend. Sustained by: Dave's reliability. Eroded by: another late-artwork panic | Email only | Dave knows constraints nobody asks about until too late |
+| Priya ↔ Mara | Per deliverable, no formal contract | Warm but new → **fragile**: swift trust at its peak, nothing underneath it. Sustained by: portfolio credibility, prompt payment. Eroded by: blame for spec failures, a second chased invoice | WhatsApp + Drive | Payment power vs. creative dependency; the informality cuts both ways |
+| Priya ↔ Ben | Day rate | Repeat, 4 projects → **solid but taken for granted**: erosion risk is credit, not delivery | Email + shared docs | Ben holds tone-of-voice memory Priya relies on but doesn't credit |
+| Sophie ↔ Mara | **None** | Low / wary → **deteriorating** by relay distortion; quality-control tension never aired directly | Routed via Priya | The edge most likely to fail silently — Sophie's feedback reaches Mara third-hand and softened |
+| Sophie ↔ Dave | **None** | Professional but guarded → **set to rupture at first preflight failure** | Routed via Priya | Each blames the other when artwork fails preflight |
+| Mara ↔ Dave | **None** | Don't know each other exist → trajectory undefined; first contact will be a crisis unless the product makes it routine | — | The costliest missing edge in the constellation |
+| Priya ↔ Sainsbury's buyer | Listing agreement (prospective) | Asymmetric → all the power on one side; one bad meeting ends the project | Email + quarterly review | The gatekeeper edge: sets every deadline in the constellation, visible to no one else in it |
 | **Priya ↔ AI** | — | High, eager, over-trusting | In-product | Treats the AI as chief of staff; risk of delegated judgement calls the spokes expect from a human |
 | **Mara ↔ AI** | — | Low, defensive at first contact | In-product (conscripted) | Reads the AI as the client's monitoring tool until proven otherwise; the make-or-break adoption edge |
 | **Sophie ↔ AI** | — | Sceptical-professional | In-product | Testing whether it respects Marrow's process or flattens it |
